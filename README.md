@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<!--
+
 **mallikarjunht1997/mallikarjunht1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on React, Spring Boot
+- 🌱 I’m currently learning Rect, Java, Elastic Search, java Script
+- 🤔 I’m looking for help with Front End 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mallikarjunht)[![Connect on Blogger](https://csitexp.blogspot.com/)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 **Languages and Tools:**  
 
@@ -32,7 +31,3 @@ Here are some ideas to get you started:
 
 ⭐️ From [Mallikarjun](https://github.com/mallikarjunht1997)
 
-<hr>
-📫 How to reach me:
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mallikarjunht)
-[![Connect on Blogger](https://csitexp.blogspot.com/)

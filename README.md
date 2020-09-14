@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 </details>
 
-⭐️ From [WEGFan](https://github.com/mallikarjunht1997)
+⭐️ From [Mallikarjun](https://github.com/mallikarjunht1997)

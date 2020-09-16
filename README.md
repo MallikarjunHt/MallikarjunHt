@@ -43,8 +43,10 @@ Here are some ideas to get you started:
 7 well managed helth care system (just an idea)<br>
   </p>
 <hr>
-#intrest in
+#intrest in<br>
+<p>
 Entrepreneurship (agri startup)<br>
 awareness in helth and education<br>
 rural education development<br>
+  </p>
 

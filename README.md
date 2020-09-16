@@ -30,18 +30,21 @@ Here are some ideas to get you started:
 </details>
 
 ⭐️ From [Mallikarjun](https://github.com/mallikarjunht1997)
+<hr>
 
 #To do List
-1 app to balance supply and demand chain in agriculture
-2 consumer and supply broadcast in agriculture
-3 personal password manager
-4 personal web search engine
-5 start discussions on india agriculture and agricultural equipments
-6 contribute more to GitHub-> oprn source
-7 well managed helth care system (just an idea)
-
+<p>
+1 app to balance supply and demand chain in agriculture<br>
+2 consumer and supply broadcast in agriculture<br>
+3 personal password manager<br>
+4 personal web search engine<br>
+5 start discussions on india agriculture and agricultural equipments<br>
+6 contribute more to GitHub-> oprn source<br>
+7 well managed helth care system (just an idea)<br>
+  </p>
+<hr>
 #intrest in
-Entrepreneurship (agri startup)
-awareness in helth and education
-rural education development
+Entrepreneurship (agri startup)<br>
+awareness in helth and education<br>
+rural education development<br>
 

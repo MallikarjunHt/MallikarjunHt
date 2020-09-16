@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ⭐️ From [Mallikarjun](https://github.com/mallikarjunht1997)
 <hr>
 
-#To do List
+To do List
 <p>
 1 app to balance supply and demand chain in agriculture<br>
 2 consumer and supply broadcast in agriculture<br>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 7 well managed helth care system (just an idea)<br>
   </p>
 <hr>
-#intrest in<br>
+intrest in<br>
 <p>
 Entrepreneurship (agri startup)<br>
 awareness in helth and education<br>

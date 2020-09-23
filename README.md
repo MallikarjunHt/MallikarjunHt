@@ -22,17 +22,17 @@ Here are some ideas to get you started:
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+# 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mallikarjunht1997&show_icons=true&theme=gotham" alt="mallikarjunht1997" />
 
-</details>
+# Most Used Languages  
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunht1997&theme=tokyonight" alt="mallikarjunht1997" />
 
 ⭐️ From [Mallikarjun](https://github.com/mallikarjunht1997)
-<hr>
-
-To do List
+***
+# To do List
 <p>
 1 app to balance supply and demand chain in agriculture<br>
 2 consumer and supply broadcast in agriculture<br>
@@ -41,12 +41,4 @@ To do List
 5 start discussions on india agriculture and agricultural equipments<br>
 6 contribute more to GitHub-> oprn source<br>
 7 well managed helth care system (just an idea)<br>
-  </p>
-<hr>
-intrest in<br>
-<p>
-Entrepreneurship (agri startup)<br>
-awareness in helth and education<br>
-rural education development<br>
-  </p>
-
+</p>  

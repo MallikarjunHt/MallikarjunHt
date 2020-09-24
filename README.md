@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**mallikarjunht1997/mallikarjunht1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** MallikarjunHt/MallikarjunHt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 # Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mallikarjunht1997&show_icons=true&theme=gotham" alt="mallikarjunht1997" /></p>  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunht1997&theme=tokyonight" alt="mallikarjunht1997" /></p>  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MallikarjunHt&show_icons=true&theme=gotham" alt="Mallikarjun" /></p>  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunHt&theme=tokyonight" alt="Mallikarjun" /></p>  
   
 # **Daily Activity:**  
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#29034](https://github.com//firstcontributions/first-contributions/issues/29034) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
-⭐️ From [Mallikarjun](https://github.com/mallikarjunht1997) 
+⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 
   
 ***
 # To do List

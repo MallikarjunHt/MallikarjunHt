@@ -39,13 +39,9 @@ Here are some ideas to get you started:
   
 ***
 # To do List
-<p>
-1 app to balance supply and demand chain in agriculture<br>
-2 consumer and supply broadcast in agriculture<br>
-3 personal password manager<br>
-4 personal web search engine<br>
-5 start discussions on india agriculture and agricultural equipments<br>
-6 contribute more to GitHub-> oprn source<br>
-7 well managed helth care system (just an idea)<br>
-</p>   
+- [ ] consumer and supply broadcast in agriculture  
+- [ ] personal password manager  
+- [ ] personal web search engine  
+- [ ] contribute more to GitHub-> oprn source  
+
 ***

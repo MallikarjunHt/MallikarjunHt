@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30963](https://github.com//firstcontributions/first-contributions/issues/30963) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
-2. ❌ Closed PR [#30963](https://github.com//firstcontributions/first-contributions/pull/30963) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
-3. 🎉 Merged PR [#1](https://github.com//mallikarjunht1997/first-contributions/pull/1) in [mallikarjunht1997/first-contributions](https://github.com//mallikarjunht1997/first-contributions)
-4. 🗣 Commented on [#82](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#29034](https://github.com//firstcontributions/first-contributions/issues/29034) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+1. 🗣 Commented on [#30963](https://github.com/firstcontributions/first-contributions/issues/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. ❌ Closed PR [#30963](https://github.com/firstcontributions/first-contributions/pull/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 🎉 Merged PR [#1](https://github.com/mallikarjunht1997/first-contributions/pull/1) in [mallikarjunht1997/first-contributions](https://github.com/mallikarjunht1997/first-contributions)
+4. 🗣 Commented on [#82](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#29034](https://github.com/firstcontributions/first-contributions/issues/29034) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 # Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MallikarjunHt&show_icons=true&theme=gotham" alt="Mallikarjun" /></p>  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunHt&theme=tokyonight" alt="Mallikarjun" /></p>  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MallikarjunHt&show_icons=true&count_private=true&theme=radical" alt="Mallikarjun" /></p>  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunHt&theme=tokyonight&langs_count=10&layout=compact" alt="Mallikarjun" /></p>  
   
 # **Daily Activity:**  
 

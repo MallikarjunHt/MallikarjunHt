@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
-2. 💪 Opened PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
-3. 🗣 Commented on [#30963](https://github.com/firstcontributions/first-contributions/issues/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. ❌ Closed PR [#30963](https://github.com/firstcontributions/first-contributions/pull/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. 🎉 Merged PR [#1](https://github.com/mallikarjunht1997/first-contributions/pull/1) in [mallikarjunht1997/first-contributions](https://github.com/mallikarjunht1997/first-contributions)
+1. ❗️ Opened issue [#264](https://github.com/EddieJaoudeCommunity/support/issues/264) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. ❌ Closed PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
+3. 💪 Opened PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
+4. 🗣 Commented on [#30963](https://github.com/firstcontributions/first-contributions/issues/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. ❌ Closed PR [#30963](https://github.com/firstcontributions/first-contributions/pull/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

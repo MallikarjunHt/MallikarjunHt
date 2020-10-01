@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/20) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-2. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-3. ❗️ Opened issue [#264](https://github.com/EddieJaoudeCommunity/support/issues/264) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❌ Closed PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
-5. 💪 Opened PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
+1. ❗️ Closed issue [#20](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/20) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+2. 🗣 Commented on [#20](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/20) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+3. 💪 Opened PR [#23](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/23) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+4. ❗️ Opened issue [#20](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/20) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+5. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#264](https://github.com/EddieJaoudeCommunity/support/issues/264) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. ❌ Closed PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
-3. 💪 Opened PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
-4. 🗣 Commented on [#30963](https://github.com/firstcontributions/first-contributions/issues/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. ❌ Closed PR [#30963](https://github.com/firstcontributions/first-contributions/pull/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+2. ❗️ Opened issue [#264](https://github.com/EddieJaoudeCommunity/support/issues/264) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❌ Closed PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
+4. 💪 Opened PR [#2](https://github.com/MallikarjunHt/first-contributions/pull/2) in [MallikarjunHt/first-contributions](https://github.com/MallikarjunHt/first-contributions)
+5. 🗣 Commented on [#30963](https://github.com/firstcontributions/first-contributions/issues/30963) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

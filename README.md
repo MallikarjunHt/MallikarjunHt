@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/CHIHIROKATOca/project2/issues/17) in [CHIHIROKATOca/project2](https://github.com/CHIHIROKATOca/project2)
-2. ❗️ Closed issue [#20](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/20) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-3. 🗣 Commented on [#20](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/20) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-4. 💪 Opened PR [#23](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/23) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-5. ❗️ Opened issue [#20](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/20) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+1. 💪 Opened PR [#90](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/90) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+2. ❗️ Opened issue [#89](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/89) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+3. 🎉 Merged PR [#1](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/1) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+4. 💪 Opened PR [#1](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/1) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+5. 🗣 Commented on [#17](https://github.com/CHIHIROKATOca/project2/issues/17) in [CHIHIROKATOca/project2](https://github.com/CHIHIROKATOca/project2)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
-2. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
-3. 🗣 Commented on [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-4. 💪 Opened PR [#90](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/90) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-5. ❗️ Opened issue [#89](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/89) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+1. ❗️ Opened issue [#127](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/127) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+3. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+4. 🗣 Commented on [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+5. 💪 Opened PR [#90](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/90) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

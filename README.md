@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#155](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/155) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-2. ❗️ Opened issue [#127](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/127) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
-4. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
-5. 🗣 Commented on [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+1. 🎉 Merged PR [#4](https://github.com/MallikarjunHt/Training/pull/4) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+2. ❗️ Opened issue [#155](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/155) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+3. ❗️ Opened issue [#127](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/127) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+5. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/2) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

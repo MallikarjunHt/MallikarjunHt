@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Training/pull/8) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-2. ❗️ Opened issue [#7](https://github.com/MallikarjunHt/Training/issues/7) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-3. ❗️ Opened issue [#6](https://github.com/MallikarjunHt/Training/issues/6) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-4. ❗️ Opened issue [#5](https://github.com/MallikarjunHt/Training/issues/5) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-5. 🎉 Merged PR [#4](https://github.com/MallikarjunHt/Training/pull/4) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+1. 💪 Opened PR [#3](https://github.com/BOLT04/BOLT04/pull/3) in [BOLT04/BOLT04](https://github.com/BOLT04/BOLT04)
+2. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Training/pull/8) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+3. ❗️ Opened issue [#7](https://github.com/MallikarjunHt/Training/issues/7) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+4. ❗️ Opened issue [#6](https://github.com/MallikarjunHt/Training/issues/6) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+5. ❗️ Opened issue [#5](https://github.com/MallikarjunHt/Training/issues/5) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

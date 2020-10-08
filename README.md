@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/3) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
-2. 💪 Opened PR [#3](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/3) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
-3. 💪 Opened PR [#3](https://github.com/BOLT04/BOLT04/pull/3) in [BOLT04/BOLT04](https://github.com/BOLT04/BOLT04)
-4. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Training/pull/8) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-5. ❗️ Opened issue [#7](https://github.com/MallikarjunHt/Training/issues/7) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+1. 🗣 Commented on [#3](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/issues/3) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+2. 🎉 Merged PR [#3](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/3) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+3. 💪 Opened PR [#3](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB/pull/3) in [MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/MallikarjunHt/Hacktoberfest2020-HTML-CSS-WEB)
+4. 💪 Opened PR [#3](https://github.com/BOLT04/BOLT04/pull/3) in [BOLT04/BOLT04](https://github.com/BOLT04/BOLT04)
+5. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Training/pull/8) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

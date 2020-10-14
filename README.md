@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/MallikarjunHt/Markdown_example/issues/7) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-2. 🎉 Merged PR [#5](https://github.com/MallikarjunHt/Markdown_example/pull/5) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-3. 🎉 Merged PR [#1](https://github.com/MallikarjunHt/Mallikarjun-slides/pull/1) in [MallikarjunHt/Mallikarjun-slides](https://github.com/MallikarjunHt/Mallikarjun-slides)
-4. 🎉 Merged PR [#11](https://github.com/MallikarjunHt/Training/pull/11) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-5. 💪 Opened PR [#11](https://github.com/MallikarjunHt/Training/pull/11) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+1. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Markdown_example/pull/8) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+2. 💪 Opened PR [#8](https://github.com/MallikarjunHt/Markdown_example/pull/8) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+3. ❗️ Opened issue [#7](https://github.com/MallikarjunHt/Markdown_example/issues/7) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+4. 🎉 Merged PR [#5](https://github.com/MallikarjunHt/Markdown_example/pull/5) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+5. 🎉 Merged PR [#1](https://github.com/MallikarjunHt/Mallikarjun-slides/pull/1) in [MallikarjunHt/Mallikarjun-slides](https://github.com/MallikarjunHt/Mallikarjun-slides)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

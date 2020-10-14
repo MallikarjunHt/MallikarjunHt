@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/MallikarjunHt/Markdown_example/pull/9) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-2. 💪 Opened PR [#9](https://github.com/MallikarjunHt/Markdown_example/pull/9) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-3. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Markdown_example/pull/8) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-4. 💪 Opened PR [#8](https://github.com/MallikarjunHt/Markdown_example/pull/8) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-5. ❗️ Opened issue [#7](https://github.com/MallikarjunHt/Markdown_example/issues/7) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+1. 🗣 Commented on [#234](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/234) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+2. 🎉 Merged PR [#9](https://github.com/MallikarjunHt/Markdown_example/pull/9) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+3. 💪 Opened PR [#9](https://github.com/MallikarjunHt/Markdown_example/pull/9) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+4. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Markdown_example/pull/8) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+5. 💪 Opened PR [#8](https://github.com/MallikarjunHt/Markdown_example/pull/8) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/MallikarjunHt/todo/issues/5) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-2. ❗️ Opened issue [#4](https://github.com/MallikarjunHt/todo/issues/4) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-3. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/todo/issues/3) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-4. ❗️ Opened issue [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-5. ❗️ Opened issue [#1](https://github.com/MallikarjunHt/todo/issues/1) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+1. ❗️ Opened issue [#6](https://github.com/MallikarjunHt/todo/issues/6) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+2. ❗️ Opened issue [#5](https://github.com/MallikarjunHt/todo/issues/5) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+3. ❗️ Opened issue [#4](https://github.com/MallikarjunHt/todo/issues/4) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+4. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/todo/issues/3) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+5. ❗️ Opened issue [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

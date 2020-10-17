@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30902](https://github.com/firstcontributions/first-contributions/issues/30902) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 🗣 Commented on [#234](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/234) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-3. 🎉 Merged PR [#9](https://github.com/MallikarjunHt/Markdown_example/pull/9) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-4. 💪 Opened PR [#9](https://github.com/MallikarjunHt/Markdown_example/pull/9) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-5. 🎉 Merged PR [#8](https://github.com/MallikarjunHt/Markdown_example/pull/8) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+1. ❗️ Opened issue [#5](https://github.com/MallikarjunHt/todo/issues/5) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+2. ❗️ Opened issue [#4](https://github.com/MallikarjunHt/todo/issues/4) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+3. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/todo/issues/3) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+4. ❗️ Opened issue [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+5. ❗️ Opened issue [#1](https://github.com/MallikarjunHt/todo/issues/1) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

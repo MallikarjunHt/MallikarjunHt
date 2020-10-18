@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/MallikarjunHt/todo/pull/7) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-2. 💪 Opened PR [#7](https://github.com/MallikarjunHt/todo/pull/7) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-3. 🗣 Commented on [#244](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/244) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-4. ❗️ Opened issue [#6](https://github.com/MallikarjunHt/todo/issues/6) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-5. ❗️ Opened issue [#5](https://github.com/MallikarjunHt/todo/issues/5) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+1. ❗️ Opened issue [#2](https://github.com/eddiejaoude/dotfiles/issues/2) in [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles)
+2. 🎉 Merged PR [#7](https://github.com/MallikarjunHt/todo/pull/7) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+3. 💪 Opened PR [#7](https://github.com/MallikarjunHt/todo/pull/7) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+4. 🗣 Commented on [#244](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/244) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+5. ❗️ Opened issue [#6](https://github.com/MallikarjunHt/todo/issues/6) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/eddiejaoude/dotfiles/issues/2) in [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles)
-2. 🗣 Commented on [#2](https://github.com/eddiejaoude/dotfiles/issues/2) in [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles)
-3. ❗️ Opened issue [#10](https://github.com/MallikarjunHt/Markdown_example/issues/10) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
-4. ❗️ Opened issue [#2](https://github.com/eddiejaoude/dotfiles/issues/2) in [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles)
-5. 🎉 Merged PR [#7](https://github.com/MallikarjunHt/todo/pull/7) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+1. 🎉 Merged PR [#11](https://github.com/MallikarjunHt/Markdown_example/pull/11) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+2. 💪 Opened PR [#11](https://github.com/MallikarjunHt/Markdown_example/pull/11) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+3. ❗️ Closed issue [#2](https://github.com/eddiejaoude/dotfiles/issues/2) in [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles)
+4. 🗣 Commented on [#2](https://github.com/eddiejaoude/dotfiles/issues/2) in [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles)
+5. ❗️ Opened issue [#10](https://github.com/MallikarjunHt/Markdown_example/issues/10) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

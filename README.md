@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Resources/pull/2) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-2. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Resources/pull/2) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-3. 🎉 Merged PR [#1](https://github.com/MallikarjunHt/Resources/pull/1) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-4. 💪 Opened PR [#1](https://github.com/MallikarjunHt/Resources/pull/1) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-5. 🎉 Merged PR [#11](https://github.com/MallikarjunHt/Markdown_example/pull/11) in [MallikarjunHt/Markdown_example](https://github.com/MallikarjunHt/Markdown_example)
+1. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+2. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Resources/pull/2) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+3. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Resources/pull/2) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+4. 🎉 Merged PR [#1](https://github.com/MallikarjunHt/Resources/pull/1) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+5. 💪 Opened PR [#1](https://github.com/MallikarjunHt/Resources/pull/1) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

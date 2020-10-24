@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-2. 🗣 Commented on [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-3. ❗️ Opened issue [#4](https://github.com/MallikarjunHt/Resources/issues/4) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-4. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-5. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Resources/pull/2) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+1. 💪 Opened PR [#1](https://github.com/MallikarjunHt/dotfiles/pull/1) in [MallikarjunHt/dotfiles](https://github.com/MallikarjunHt/dotfiles)
+2. ❗️ Closed issue [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+3. 🗣 Commented on [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+4. ❗️ Opened issue [#4](https://github.com/MallikarjunHt/Resources/issues/4) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+5. ❗️ Opened issue [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

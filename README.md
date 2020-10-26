@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 - [ ] personal password manager  
 - [ ] personal web search engine  
 - [ ] contribute more to GitHub-> oprn source  
-
+- [ ] Include code of conduct, contributing guidlines, Welcome action in all repos
 ***
 ![Profile visit](https://profile-counter.glitch.me/MallikarjunHt/count.svg)

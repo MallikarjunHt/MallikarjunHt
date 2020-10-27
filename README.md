@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/aryamaanthakur/Markdown_example/pull/1) in [aryamaanthakur/Markdown_example](https://github.com/aryamaanthakur/Markdown_example)
-2. ❗️ Opened issue [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 💪 Opened PR [#1](https://github.com/MallikarjunHt/dotfiles/pull/1) in [MallikarjunHt/dotfiles](https://github.com/MallikarjunHt/dotfiles)
-4. ❗️ Closed issue [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-5. 🗣 Commented on [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+1. 💪 Opened PR [#155](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/155) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 💪 Opened PR [#1](https://github.com/aryamaanthakur/Markdown_example/pull/1) in [aryamaanthakur/Markdown_example](https://github.com/aryamaanthakur/Markdown_example)
+3. ❗️ Opened issue [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 💪 Opened PR [#1](https://github.com/MallikarjunHt/dotfiles/pull/1) in [MallikarjunHt/dotfiles](https://github.com/MallikarjunHt/dotfiles)
+5. ❗️ Closed issue [#3](https://github.com/MallikarjunHt/Resources/issues/3) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

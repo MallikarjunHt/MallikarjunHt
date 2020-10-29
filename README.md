@@ -2,17 +2,16 @@
 
 
 ** MallikarjunHt/MallikarjunHt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React, Spring Boot
 - 🌱 I’m currently learning Rect, Java, Elastic Search, java Script
 - 🤔 I’m looking for help with Front End 
 - 💬 Ask me about ...
 - 📫 How to reach me: [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mallikarjunht)[![Blog](https://img.shields.io/badge/--blog?label=Blog&logo=Blogger&style=social)](https://csitexp.blogspot.com/)
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 **Languages and Tools:**  
 

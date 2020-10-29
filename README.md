@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-2. 🎉 Merged PR [#12](https://github.com/MallikarjunHt/Training/pull/12) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-3. 💪 Opened PR [#155](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/155) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#1](https://github.com/aryamaanthakur/Markdown_example/pull/1) in [aryamaanthakur/Markdown_example](https://github.com/aryamaanthakur/Markdown_example)
-5. ❗️ Opened issue [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. ❗️ Closed issue [#4](https://github.com/MallikarjunHt/Resources/issues/4) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+2. ❗️ Closed issue [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+3. 🎉 Merged PR [#12](https://github.com/MallikarjunHt/Training/pull/12) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
+4. 💪 Opened PR [#155](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/155) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 💪 Opened PR [#1](https://github.com/aryamaanthakur/Markdown_example/pull/1) in [aryamaanthakur/Markdown_example](https://github.com/aryamaanthakur/Markdown_example)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/MallikarjunHt/Resources/issues/4) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-2. ❗️ Closed issue [#3](https://github.com/MallikarjunHt/Training/issues/3) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-3. 🎉 Merged PR [#12](https://github.com/MallikarjunHt/Training/pull/12) in [MallikarjunHt/Training](https://github.com/MallikarjunHt/Training)
-4. 💪 Opened PR [#155](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/155) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 💪 Opened PR [#1](https://github.com/aryamaanthakur/Markdown_example/pull/1) in [aryamaanthakur/Markdown_example](https://github.com/aryamaanthakur/Markdown_example)
+1. 🗣 Commented on [#328](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/328) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+2. 🗣 Commented on [#327](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/327) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+3. ❗️ Opened issue [#328](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/328) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+4. 💪 Opened PR [#327](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/327) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+5. ❗️ Closed issue [#4](https://github.com/MallikarjunHt/Resources/issues/4) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

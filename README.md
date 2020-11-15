@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/SaiBalaji22/Scoop/issues/6) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
-2. 💪 Opened PR [#6](https://github.com/SaiBalaji22/Scoop/pull/6) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
-3. ❗️ Opened issue [#5](https://github.com/SaiBalaji22/Scoop/issues/5) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
-4. 💪 Opened PR [#4](https://github.com/SaiBalaji22/Scoop/pull/4) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
-5. 💪 Opened PR [#3](https://github.com/SaiBalaji22/Scoop/pull/3) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+1. ❗️ Opened issue [#59](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/issues/59) in [LucasPilla/Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer)
+2. 🗣 Commented on [#6](https://github.com/SaiBalaji22/Scoop/issues/6) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+3. 💪 Opened PR [#6](https://github.com/SaiBalaji22/Scoop/pull/6) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+4. ❗️ Opened issue [#5](https://github.com/SaiBalaji22/Scoop/issues/5) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+5. 💪 Opened PR [#4](https://github.com/SaiBalaji22/Scoop/pull/4) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

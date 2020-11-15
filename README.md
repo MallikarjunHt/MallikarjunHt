@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#328](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/328) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-2. 🗣 Commented on [#327](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/327) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-3. ❗️ Opened issue [#328](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/issues/328) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-4. 💪 Opened PR [#327](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/327) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
-5. ❗️ Closed issue [#4](https://github.com/MallikarjunHt/Resources/issues/4) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+1. 🗣 Commented on [#6](https://github.com/SaiBalaji22/Scoop/issues/6) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+2. 💪 Opened PR [#6](https://github.com/SaiBalaji22/Scoop/pull/6) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+3. ❗️ Opened issue [#5](https://github.com/SaiBalaji22/Scoop/issues/5) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+4. 💪 Opened PR [#4](https://github.com/SaiBalaji22/Scoop/pull/4) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+5. 💪 Opened PR [#3](https://github.com/SaiBalaji22/Scoop/pull/3) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

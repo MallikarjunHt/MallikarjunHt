@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Responcive_Ui/pull/2) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
-2. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Responcive_Ui/pull/2) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
-3. ❗️ Opened issue [#1](https://github.com/MallikarjunHt/Responcive_Ui/issues/1) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
-4. ❗️ Opened issue [#59](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/issues/59) in [LucasPilla/Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer)
-5. 🗣 Commented on [#6](https://github.com/SaiBalaji22/Scoop/issues/6) in [SaiBalaji22/Scoop](https://github.com/SaiBalaji22/Scoop)
+1. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/codewars/pull/2) in [MallikarjunHt/codewars](https://github.com/MallikarjunHt/codewars)
+2. 💪 Opened PR [#2](https://github.com/MallikarjunHt/codewars/pull/2) in [MallikarjunHt/codewars](https://github.com/MallikarjunHt/codewars)
+3. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Responcive_Ui/pull/2) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
+4. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Responcive_Ui/pull/2) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
+5. ❗️ Opened issue [#1](https://github.com/MallikarjunHt/Responcive_Ui/issues/1) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

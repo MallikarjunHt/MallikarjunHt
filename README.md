@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 # **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/codewars/pull/2) in [MallikarjunHt/codewars](https://github.com/MallikarjunHt/codewars)
-2. 💪 Opened PR [#2](https://github.com/MallikarjunHt/codewars/pull/2) in [MallikarjunHt/codewars](https://github.com/MallikarjunHt/codewars)
-3. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Responcive_Ui/pull/2) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
-4. 💪 Opened PR [#2](https://github.com/MallikarjunHt/Responcive_Ui/pull/2) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
-5. ❗️ Opened issue [#1](https://github.com/MallikarjunHt/Responcive_Ui/issues/1) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
+1. ❗️ Opened issue [#6](https://github.com/MallikarjunHt/Resources/issues/6) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+2. ❗️ Opened issue [#5](https://github.com/MallikarjunHt/Resources/issues/5) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+3. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/codewars/pull/2) in [MallikarjunHt/codewars](https://github.com/MallikarjunHt/codewars)
+4. 💪 Opened PR [#2](https://github.com/MallikarjunHt/codewars/pull/2) in [MallikarjunHt/codewars](https://github.com/MallikarjunHt/codewars)
+5. 🎉 Merged PR [#2](https://github.com/MallikarjunHt/Responcive_Ui/pull/2) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
 <!--END_SECTION:activity-->
 
 ⭐️ From [Mallikarjun](https://github.com/MallikarjunHt) 

@@ -26,6 +26,5 @@
 <!--END_SECTION:activity-->
 
 #### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MallikarjunHt)
 ![twitter](https://img.shields.io/twitter/follow/MallikarjunHt?label=Twitter&logo=twitter&style=for-the-badge)
+![github](https://img.shields.io/github/followers/MallikarjunHt?label=Followers&logo=GitHub&style=for-the-badge)

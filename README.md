@@ -14,13 +14,7 @@
 ### Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=MallikarjunHt&theme=tokyonight&count_private=true")
-#### Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->

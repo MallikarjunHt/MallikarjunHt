@@ -18,11 +18,11 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. ❗️ Opened issue [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/template/issues/5) in [EddieJaoudeCommunity/template](https://github.com/EddieJaoudeCommunity/template)
-5. ❗️ Opened issue [#6](https://github.com/MallikarjunHt/Resources/issues/6) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+1. 🗣 Commented on [#652](https://github.com/EddieJaoudeCommunity/support/issues/652) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. ❗️ Opened issue [#652](https://github.com/EddieJaoudeCommunity/support/issues/652) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#389](https://github.com/EddieJaoudeCommunity/support/issues/389) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Opened issue [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
 
 #### Profile Visits 

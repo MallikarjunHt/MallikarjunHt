@@ -18,11 +18,11 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/ivmarcos/react-to-pdf/issues/34) in [ivmarcos/react-to-pdf](https://github.com/ivmarcos/react-to-pdf)
-2. 💪 Opened PR [#1](https://github.com/ProCode47/Git-Search/pull/1) in [ProCode47/Git-Search](https://github.com/ProCode47/Git-Search)
-3. 🎉 Merged PR [#1](https://github.com/code-grounds/codewars/pull/1) in [code-grounds/codewars](https://github.com/code-grounds/codewars)
-4. 💪 Opened PR [#1](https://github.com/code-grounds/codewars/pull/1) in [code-grounds/codewars](https://github.com/code-grounds/codewars)
-5. 🎉 Merged PR [#5](https://github.com/MallikarjunHt/codewars/pull/5) in [MallikarjunHt/codewars](https://github.com/MallikarjunHt/codewars)
+1. ❗️ Closed issue [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. ❗️ Closed issue [#5](https://github.com/MallikarjunHt/Resources/issues/5) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+4. 🗣 Commented on [#5](https://github.com/MallikarjunHt/Resources/issues/5) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+5. ❗️ Closed issue [#1](https://github.com/MallikarjunHt/Responcive_Ui/issues/1) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
 <!--END_SECTION:activity-->
 
 #### Profile Visits 

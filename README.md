@@ -18,11 +18,11 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. ❗️ Closed issue [#5](https://github.com/MallikarjunHt/Resources/issues/5) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-4. 🗣 Commented on [#5](https://github.com/MallikarjunHt/Resources/issues/5) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
-5. ❗️ Closed issue [#1](https://github.com/MallikarjunHt/Responcive_Ui/issues/1) in [MallikarjunHt/Responcive_Ui](https://github.com/MallikarjunHt/Responcive_Ui)
+1. 🗣 Commented on [#1](https://github.com/ProCode47/Git-Search/issues/1) in [ProCode47/Git-Search](https://github.com/ProCode47/Git-Search)
+2. ❗️ Closed issue [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#569](https://github.com/EddieJaoudeCommunity/support/issues/569) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#5](https://github.com/MallikarjunHt/Resources/issues/5) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
+5. 🗣 Commented on [#5](https://github.com/MallikarjunHt/Resources/issues/5) in [MallikarjunHt/Resources](https://github.com/MallikarjunHt/Resources)
 <!--END_SECTION:activity-->
 
 #### Profile Visits 

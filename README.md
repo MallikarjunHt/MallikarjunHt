@@ -13,7 +13,7 @@
 
 ### Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=MallikarjunHt&theme=tokyonight&count_private=true")
+![stats](https://github-readme-stats.vercel.app/api?username=MallikarjunHt&theme=tokyonight&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite")
 
 ### **Daily Activity:**  
 

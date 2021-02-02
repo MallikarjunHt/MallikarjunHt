@@ -25,8 +25,8 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/stephenajulu/stephenajulu/pull/1) in [stephenajulu/stephenajulu](https://github.com/stephenajulu/stephenajulu)
-2. 🗣 Commented on [#1](https://github.com/MallikarjunHt/MallikarjunHt/issues/1) in [MallikarjunHt/MallikarjunHt](https://github.com/MallikarjunHt/MallikarjunHt)
+1. ❗️ Closed issue [#1](https://github.com/MallikarjunHt/MallikarjunHt/issues/1) in [MallikarjunHt/MallikarjunHt](https://github.com/MallikarjunHt/MallikarjunHt)
+2. ❌ Closed PR [#1](https://github.com/stephenajulu/stephenajulu/pull/1) in [stephenajulu/stephenajulu](https://github.com/stephenajulu/stephenajulu)
 3. 🗣 Commented on [#1](https://github.com/MallikarjunHt/MallikarjunHt/issues/1) in [MallikarjunHt/MallikarjunHt](https://github.com/MallikarjunHt/MallikarjunHt)
 4. 🗣 Commented on [#1](https://github.com/MallikarjunHt/MallikarjunHt/issues/1) in [MallikarjunHt/MallikarjunHt](https://github.com/MallikarjunHt/MallikarjunHt)
 5. 🗣 Commented on [#1](https://github.com/MallikarjunHt/MallikarjunHt/issues/1) in [MallikarjunHt/MallikarjunHt](https://github.com/MallikarjunHt/MallikarjunHt)

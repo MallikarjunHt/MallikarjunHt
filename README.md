@@ -25,11 +25,11 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-2. 🗣 Commented on [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-3. ❗️ Closed issue [#1](https://github.com/MallikarjunHt/todo/issues/1) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-4. 🗣 Commented on [#1](https://github.com/MallikarjunHt/todo/issues/1) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-5. ❗️ Closed issue [#1](https://github.com/MallikarjunHt/MallikarjunHt/issues/1) in [MallikarjunHt/MallikarjunHt](https://github.com/MallikarjunHt/MallikarjunHt)
+1. ❗️ Opened issue [#8](https://github.com/MallikarjunHt/todo/issues/8) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+2. ❗️ Closed issue [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+3. 🗣 Commented on [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+4. ❗️ Closed issue [#1](https://github.com/MallikarjunHt/todo/issues/1) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+5. 🗣 Commented on [#1](https://github.com/MallikarjunHt/todo/issues/1) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
 <!--END_SECTION:activity-->
 
 #### Profile Visits 

@@ -25,11 +25,11 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#217](https://github.com/googleads/googleads-java-lib/issues/217) in [googleads/googleads-java-lib](https://github.com/googleads/googleads-java-lib)
-2. ❗️ Opened issue [#216](https://github.com/googleads/googleads-java-lib/issues/216) in [googleads/googleads-java-lib](https://github.com/googleads/googleads-java-lib)
-3. 🗣 Commented on [#46](https://github.com/ivmarcos/react-to-pdf/issues/46) in [ivmarcos/react-to-pdf](https://github.com/ivmarcos/react-to-pdf)
-4. ❗️ Opened issue [#8](https://github.com/MallikarjunHt/todo/issues/8) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
-5. ❗️ Closed issue [#2](https://github.com/MallikarjunHt/todo/issues/2) in [MallikarjunHt/todo](https://github.com/MallikarjunHt/todo)
+1. ❗️ Closed issue [#216](https://github.com/googleads/googleads-java-lib/issues/216) in [googleads/googleads-java-lib](https://github.com/googleads/googleads-java-lib)
+2. 🗣 Commented on [#216](https://github.com/googleads/googleads-java-lib/issues/216) in [googleads/googleads-java-lib](https://github.com/googleads/googleads-java-lib)
+3. ❗️ Opened issue [#217](https://github.com/googleads/googleads-java-lib/issues/217) in [googleads/googleads-java-lib](https://github.com/googleads/googleads-java-lib)
+4. ❗️ Opened issue [#216](https://github.com/googleads/googleads-java-lib/issues/216) in [googleads/googleads-java-lib](https://github.com/googleads/googleads-java-lib)
+5. 🗣 Commented on [#46](https://github.com/ivmarcos/react-to-pdf/issues/46) in [ivmarcos/react-to-pdf](https://github.com/ivmarcos/react-to-pdf)
 <!--END_SECTION:activity-->
 
 #### Profile Visits 

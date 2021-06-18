@@ -10,6 +10,9 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [React TODO with Firebase for database and deploy](https://dev.to/mallikarjunht/react-todo-with-firebase-for-database-and-deploy-2cnm)
+- [Cron Job](https://dev.to/mallikarjunht/cron-job-1aj7)
+- [Ubuntu Web-Development Set Up](https://dev.to/mallikarjunht/ubuntu-web-development-set-up-4h9h)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  

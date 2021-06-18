@@ -8,6 +8,9 @@
 |---|---|  
 | ![stats](https://github-readme-stats.vercel.app/api?username=MallikarjunHt&theme=tokyonight&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite") | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MallikarjunHt&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)|  
 
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
 

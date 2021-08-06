@@ -32,11 +32,11 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
+1. ❗️ Opened issue [#2](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/2) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
 2. 🗣 Commented on [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
 3. 🗣 Commented on [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
-4. ❗️ Opened issue [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
-5. 🗣 Commented on [#46](https://github.com/ivmarcos/react-to-pdf/issues/46) in [ivmarcos/react-to-pdf](https://github.com/ivmarcos/react-to-pdf)
+4. 🗣 Commented on [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
+5. ❗️ Opened issue [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
 <!--END_SECTION:activity-->
 
 #### Profile Visits 

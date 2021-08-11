@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-** MallikarjunHt/MallikarjunHt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** MallikarjunHt/MallikarjunHt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
+[Join Discord](https://discord.gg/jmwguYfb)  |[Twitter](https://twitter.com/MallikarjunHt)  | [Dev.to](https://dev.to/mallikarjunht)
 ### Stats
 |stats|streak|  
 |---|---|  

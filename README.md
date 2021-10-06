@@ -33,11 +33,11 @@
 ### **Daily Activity:**  
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/code-grounds/FileTransfer/issues/1) in [code-grounds/FileTransfer](https://github.com/code-grounds/FileTransfer)
-2. 💪 Opened PR [#2](https://github.com/omkar9999/FileWatcherHandler/pull/2) in [omkar9999/FileWatcherHandler](https://github.com/omkar9999/FileWatcherHandler)
-3. ❗️ Opened issue [#2](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/2) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
-4. 🗣 Commented on [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
-5. 🗣 Commented on [#1](https://github.com/MallikarjunHt/Csharp-Adobe-Automation/issues/1) in [MallikarjunHt/Csharp-Adobe-Automation](https://github.com/MallikarjunHt/Csharp-Adobe-Automation)
+1. 🎉 Merged PR [#1](https://github.com/MallikarjunHt/FileTransfer/pull/1) in [MallikarjunHt/FileTransfer](https://github.com/MallikarjunHt/FileTransfer)
+2. 💪 Opened PR [#1](https://github.com/MallikarjunHt/FileTransfer/pull/1) in [MallikarjunHt/FileTransfer](https://github.com/MallikarjunHt/FileTransfer)
+3. 🎉 Merged PR [#4](https://github.com/code-grounds/FileTransfer/pull/4) in [code-grounds/FileTransfer](https://github.com/code-grounds/FileTransfer)
+4. 💪 Opened PR [#4](https://github.com/code-grounds/FileTransfer/pull/4) in [code-grounds/FileTransfer](https://github.com/code-grounds/FileTransfer)
+5. 🎉 Merged PR [#3](https://github.com/code-grounds/FileTransfer/pull/3) in [code-grounds/FileTransfer](https://github.com/code-grounds/FileTransfer)
 <!--END_SECTION:activity-->
 
 #### Profile Visits 

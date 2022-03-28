@@ -11,10 +11,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Elastic Search Bulk Update](https://dev.to/mallikarjunht/elastic-search-bulk-update-3359)
+- [Client side PDF generator](https://dev.to/mallikarjunht/client-side-pdf-generator-2n83)
+- [Hosting on GitHub](https://dev.to/mallikarjunht/hosting-on-github-3cnn)
 - [Word Document to InDesign Automation](https://dev.to/mallikarjunht/adobe-indesign-automation-3nnc)
-- [React TODO with Firebase for database and deploy](https://dev.to/mallikarjunht/react-todo-with-firebase-for-database-and-deploy-2cnm)
-- [Cron Job](https://dev.to/mallikarjunht/cron-job-1aj7)
-- [Ubuntu Web-Development Set Up](https://dev.to/mallikarjunht/ubuntu-web-development-set-up-4h9h)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  

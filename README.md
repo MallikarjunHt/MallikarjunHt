@@ -11,10 +11,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Elastic Search Reindexing](https://dev.to/mallikarjunht/elastic-search-reindexing-4gkg)
 - [Elastic Search Bulk Update](https://dev.to/mallikarjunht/elastic-search-bulk-update-3359)
 - [Client side PDF generator](https://dev.to/mallikarjunht/client-side-pdf-generator-2n83)
 - [Hosting on GitHub](https://dev.to/mallikarjunht/hosting-on-github-3cnn)
-- [Word Document to InDesign Automation](https://dev.to/mallikarjunht/adobe-indesign-automation-3nnc)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  

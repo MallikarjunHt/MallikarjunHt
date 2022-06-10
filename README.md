@@ -26,10 +26,6 @@
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
 
----
-|Language|  
-|---|  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunHt&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)  |
 
 #### Profile Visits 
 ![twitter](https://img.shields.io/twitter/follow/MallikarjunHt?label=Twitter&logo=twitter&style=for-the-badge)

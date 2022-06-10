@@ -3,7 +3,8 @@
 
 ** MallikarjunHt/MallikarjunHt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
-[Join Discord](https://discord.gg/jmwguYfb)  |[Twitter](https://twitter.com/MallikarjunHt)  | [Dev.to](https://dev.to/mallikarjunht)
+[Twitter](https://twitter.com/MallikarjunHt)  | [Dev.to](https://dev.to/mallikarjunht)
+
 ### Stats
 |stats|streak|  
 |---|---|  
@@ -18,7 +19,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
-
+<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -29,16 +30,6 @@
 |Language|  
 |---|  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunHt&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)  |
-
-### **Daily Activity:**  
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MallikarjunHt/FileTransfer/pull/1) in [MallikarjunHt/FileTransfer](https://github.com/MallikarjunHt/FileTransfer)
-2. 💪 Opened PR [#1](https://github.com/MallikarjunHt/FileTransfer/pull/1) in [MallikarjunHt/FileTransfer](https://github.com/MallikarjunHt/FileTransfer)
-3. 🎉 Merged PR [#4](https://github.com/code-grounds/FileTransfer/pull/4) in [code-grounds/FileTransfer](https://github.com/code-grounds/FileTransfer)
-4. 💪 Opened PR [#4](https://github.com/code-grounds/FileTransfer/pull/4) in [code-grounds/FileTransfer](https://github.com/code-grounds/FileTransfer)
-5. 🎉 Merged PR [#3](https://github.com/code-grounds/FileTransfer/pull/3) in [code-grounds/FileTransfer](https://github.com/code-grounds/FileTransfer)
-<!--END_SECTION:activity-->
 
 #### Profile Visits 
 ![twitter](https://img.shields.io/twitter/follow/MallikarjunHt?label=Twitter&logo=twitter&style=for-the-badge)
